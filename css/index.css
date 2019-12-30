@@ -1,3 +1,101 @@
 /*font-family: 'Poppins', sans-serif; for headers and titles
 font-family: 'Roboto', sans-serif; for text and others*/
 
+* {
+    margin: 4px 4px;
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+    width: 400px;
+    margin-left: 0px;
+}
+
+nav ul {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 350px;
+    font-family: 'roboto', sans-serif;
+    list-style-type: none;
+}
+
+nav ul a {
+    text-decoration: none;
+    color: black;
+}
+
+.logo {
+    width: 90px;
+    height: 50px;
+}
+
+.select {
+    color: #f95A37;
+}
+
+header {
+    width: 400px;
+}
+
+.welcome {
+    margin-left: 0px;
+    width: 400px;
+    height: 300px;
+    display: flex;
+    justify-content: flex-start;
+}
+
+.wel {
+    margin: 0px 0px;
+    width: 280px;
+    height: 300px;
+    border: 1px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    display: inline-block;
+    text-align: end;
+    color: #FAF8ED;
+    background-color: #f95A37;
+}
+
+.come {
+    margin: 0px 0px;
+    width: 280px;
+    height: 300px;
+    border: 1px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    display: inline-block;
+    color: #f95A37;
+    background-color: #FAF8ED;
+}
+
+.wel h2, .come h2 {
+    font-size: 50px;
+    font-family: 'Poppins', sans-serif;
+}
+.wel h2 {
+    margin-top: 100px;
+}
+
+.come h2 {
+    margin-top: 140px;
+}
+
+.welcome h1 {
+    position: absolute;
+    padding-top: 240px;
+    padding-left: 60px;
+    font-size: 25px;
+
+
+
+}
+
+.web-design img, .web-developer img, .validation img {
+    width: 400px;
+
+}
+
