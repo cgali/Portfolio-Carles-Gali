@@ -5,11 +5,17 @@ font-family: 'Roboto', sans-serif; for text and others*/
     margin: 4px 4px;
 }
 
+/******** NAVBAR ********/
+
 nav {
     display: flex;
     justify-content: space-around;
-    width: 400px;
-    margin-left: 0px;
+    width: 405px;
+    margin: 0px 0px;
+    border-bottom: 1px solid black;
+    position: sticky;
+    top: 5px;
+    background-color: #FAF8ED;
 }
 
 nav ul {
@@ -32,8 +38,10 @@ nav ul a {
 }
 
 .select {
-    color: #f95A37;
+    color: #a7bf2e;
 }
+
+/******** HEADER ********/
 
 header {
     width: 400px;
@@ -56,8 +64,8 @@ header {
     border-bottom-left-radius: 10px;
     display: inline-block;
     text-align: end;
-    color: #FAF8ED;
-    background-color: #f95A37;
+    color: #a7bf2e;
+    background-color: #2f2b32;
 }
 
 .come {
@@ -68,8 +76,8 @@ header {
     border-top-right-radius: 10px;
     border-bottom-right-radius: 10px;
     display: inline-block;
-    color: #f95A37;
-    background-color: #FAF8ED;
+    color: #2f2b32;
+    background-color: #a7bf2e;
 }
 
 .wel h2, .come h2 {
@@ -87,15 +95,112 @@ header {
 .welcome h1 {
     position: absolute;
     padding-top: 240px;
-    padding-left: 60px;
-    font-size: 25px;
-
-
-
+    padding-left: 50px;
+    font-size: 30px;
+    font-family: 'Long Cang', cursive;;
+    color: #FAF8ED;
 }
+
+/******** PRINCIPAL ********/
 
 .web-design img, .web-developer img, .validation img {
-    width: 400px;
+    width: 250px;
+    margin-top: 50px;
+}
+
+.web-developer img {
+    border-radius: 20px;
+}
+
+.principal-container {
+    text-align: center;
+}
+
+.principal-container h3 {
+    font-family: 'poppins', sans-serif;
+    font-size: 30px;
+    text-decoration: underline #a7bf2e;
+}
+
+.principal-container p {
+    font-family: 'roboto',sans-serif;
 
 }
 
+.validation {
+    border-bottom: 1px solid black;
+    padding-bottom: 30px;
+}
+
+/******** ABOUT ME ********/
+
+.about-me {
+    margin-top: 40px;
+    margin-left: 0px;
+    width: 400px;
+    height: 300px;
+    display: flex;
+    justify-content: flex-start;
+}
+
+.past {
+    margin: 0px 0px;
+    width: 280px;
+    height: 300px;
+    border: 1px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    display: inline-block;
+    color: #2f2b32;
+    background-color: #a7bf2e;
+}
+
+.present {
+    margin: 0px 0px;
+    width: 280px;
+    height: 300px;
+    border: 1px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    display: inline-block;
+    color: #a7bf2e;
+    background-color: #2f2b32;
+    text-align: end;
+}
+.past p, .present p {
+    width: 150px;
+    font-size: 19px;
+}
+.present p {
+    margin-left: 40px;
+}
+
+.photo-profile {
+    position: absolute;
+    margin-top: 90px;
+    margin-left: 152px;
+    width: 100px;
+    border-radius: 50px;
+}
+
+/******** FOOTER ********/
+
+.logo-facebook, .logo-linkedin, .logo-instagram {
+    height:40px;
+}
+
+
+.social {
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    width: 400px;
+    padding-left: 0px;
+    padding-right: 5px;
+    margin-left: 0px;
+}
+
+footer p {
+    text-align: center;
+    font-family: 'Long Cang', cursive;;
+}
