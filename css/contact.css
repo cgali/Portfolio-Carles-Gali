@@ -3,11 +3,17 @@
     margin: 4px 4px;
 }
 
+/******** NAVBAR ********/
+
 nav {
     display: flex;
     justify-content: space-around;
-    width: 400px;
-    margin-left: 0px;
+    width: 405px;
+    margin: 0px 0px;
+    border-bottom: 1px solid black;
+    position: sticky;
+    top: 1px;
+    background-color: #FAF8ED;
 }
 
 nav ul {
@@ -27,4 +33,8 @@ nav ul a {
 .logo {
     width: 90px;
     height: 50px;
+}
+
+.select {
+    color: #a7bf2e;
 }
