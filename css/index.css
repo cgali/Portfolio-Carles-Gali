@@ -46,6 +46,7 @@ nav ul a {
 /******** HEADER ********/
 
 header {
+
     width: 400px;
 }
 
@@ -187,8 +188,14 @@ header {
 
 /******** FOOTER ********/
 
-.logo-facebook, .logo-linkedin, .logo-instagram {
+.logo-facebook, .logo-linkedin, .logo-instagram, .logo-github {
     height:40px;
+}
+
+footer {
+    border-top: 1px solid black;
+    padding-top: 20px;
+    margin-top: 20px;
 }
 
 .social {
@@ -314,7 +321,7 @@ footer p {
 
     /******** FOOTER ********/
 
-    .logo-facebook, .logo-linkedin, .logo-instagram {
+    .logo-facebook, .logo-linkedin, .logo-instagram, .logo-github {
         height: 60px;
     }
 
@@ -419,7 +426,6 @@ footer p {
         height: 570px;
         border-top: 1px solid black;
         padding-top: 40px;
-        border-bottom: 1px solid black;
         padding-bottom: 40px;
     }
 
@@ -453,7 +459,7 @@ footer p {
 
     /******** FOOTER ********/
 
-    .logo-facebook, .logo-linkedin, .logo-instagram {
+    .logo-facebook, .logo-linkedin, .logo-instagram, .logo-github {
         height: 70px;
     }
 
