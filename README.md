@@ -16,7 +16,7 @@ La página consta de 3 partes:
 <img src="img/readme-img/projects3.png">
 <br><br><br>
   
- - Contact: aquí econtraréis una breve introducción de mis aptitudes como trabajador en un ámbito general. Aparte, encontraréis varios enlaces de mis datos de contacto y mis perfiles profesionales.<br><br><img src="img/readme-img/contact1.png"><br><br>
+ - Contact: aquí encontraréis una breve introducción de mis aptitudes como trabajador en un ámbito general. Aparte, encontraréis varios enlaces de mis datos de contacto y mis perfiles profesionales.<br><br><img src="img/readme-img/contact1.png"><br><br>
 <img src="img/readme-img/contact2.png"><br><br>
 <br>
 <br>
