@@ -356,6 +356,7 @@ footer p {
         height: 680px;
     }
 
+
     .projects h2, .details h2 {
         font-size: 80px;
     }
@@ -370,7 +371,7 @@ footer p {
     }
 
     .right-projects h2{
-        margin-left: 335px;
+        margin-left: 325px;
         margin-top: 260px;
     }
 

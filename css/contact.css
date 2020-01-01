@@ -342,19 +342,4 @@ footer p {
     footer p {
         font-size: 35px;
     }
-
-    /******** FOOTER ********/
-
-    footer {
-        width: 1450px;
-        margin-top: 110px;
-    }
-
-    .social {
-        width: 1450px;
-        
-    }
-
-    footer p {
-        font-size: 35px;
-    }
+}
