@@ -2,7 +2,7 @@
 
 Proyecto basado en mi experiencia como desarrollador Front end. En él podréis encontrar una explicación de mis conocimientos y mis estudios.
 
-Aparte, encontraréis poryectos de varios tipos realizados durantes mis estudios en Ironhack BCN y mi contacto con varios enlaces a mis perfiles sociales más comunes
+Aparte, encontraréis proyectos de varios tipos realizados durantes mis estudios en Ironhack BCN y mi contacto con varios enlaces a mis perfiles sociales más comunes
 
 La página consta de 3 partes:
 
